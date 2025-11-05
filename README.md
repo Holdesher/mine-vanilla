@@ -45,6 +45,13 @@
 - `ScalableLux` (0.1.6) — Лёгкое динамическое освещение.
 - `Sodium` (0.7.2+mc1.21.10) — Ускоряет рендеринг для повышения FPS.
 
+## Shader Packs
+
+- [BSL](https://modrinth.com/shader/bsl-shaders)
+- [Photon](https://modrinth.com/shader/photon-shader)
+- [Solas Shader](https://modrinth.com/shader/solas-shader)
+- [Complementary Shaders](https://modrinth.com/shader/complementary-reimagined)
+
 ## Resource Packs
 
 - [Dramatic Skys](https://modrinth.com/resourcepack/dramatic-skys)
@@ -53,3 +60,4 @@
 ## Links
 
 - [Modrinth](https://modrinth.com/)
+- [Fabric API](https://fabricmc.net)
