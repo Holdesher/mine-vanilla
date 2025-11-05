@@ -12,9 +12,8 @@
 
    - Нажмите `Win + R` и введите `%appdata%`
 
-3. Скачайте - [ModPack.zip](https://github.com/Holdesher/mine-vanilla/raw/refs/heads/main/modpack.zip)
-4. Перенесите содержимые файлы из `modpack.zip` в `%appdata%\.minecraft`.
-5. Запустите лаунчер и введите ник/аккаунт и запускайте игру.
+3. Скачайте - [ModPack.zip](https://github.com/Holdesher/mine-vanilla/raw/refs/heads/main/modpack.zip) и перенесите содержимое в `%appdata%\.minecraft`.
+4. Запустите лаунчер и введите ник/аккаунт и запускайте игру.
 
 ## Info
 
