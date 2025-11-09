@@ -7,7 +7,7 @@
 
 ## Install
 
-1. Установите любой лаунчер, например: [Legacy Launcher](https://llaun.ch) или [TLauncher](https://tlauncher.ru).
+1. Установите любой лаунчер, например: [Legacy Launcher](https://llaun.ch), [TLauncher](https://tlauncher.ru) или [MultiMC](https://multimc.org/) (если есть лицензия).
 2. Скачайте [Fabric API](https://fabricmc.net) и установите его в директорию `%appdata%\.minecraft`
 
    - Нажмите `Win + R` и введите `%appdata%`
@@ -46,7 +46,7 @@
 - `AppleSkin` (mc1.21.9-3.0.7) - Улучшения HUD, связанные с едой.
 - `Nemos Inventory Sorting` (1.21.10-1.14.6) - Фильтрация и сортировка, инвентаря или хранилищ.
 - `Simple Armor HUD` (1.21.10-1.6.0) - Отображение информации о броне.
-- `Shulker Preview` (1.7.0+1.21.10) - Отображение содержимого шалкеров.
+- `Shulker Box Tooltip` (5.2.11+1.21.9) - Отображение содержимого шалкеров.
 - `SkinsRestorer` (15.8.2) - Отображение скинов от учетной записи.
 
 ## Shader Packs
