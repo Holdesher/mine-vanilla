@@ -65,6 +65,8 @@
 - `Simple Armor HUD` [(1.21.10-1.6.0)](https://modrinth.com/mod/simple-armor-hud)- Отображение информации о броне.
 - `Shulker Box Tooltip` [(5.2.11+1.21.9)](https://modrinth.com/mod/shulkerboxtooltip)- Отображение содержимого шалкеров.
 - `SkinsRestorer` [(15.8.2)](https://modrinth.com/plugin/skinsrestorer)- Отображение скинов от учетной записи.
+- `Malilib` [(1.21.10-0.26.3)](https://modrinth.com/mod/malilib) - Мод-библиотека для клиентских модов.
+- `Litematica` [(1.21.10-0.24.3)](https://modrinth.com/mod/litematica) - Схемотехнический мод.
 
 ## Shader Packs
 
@@ -84,8 +86,8 @@
 
 - [Java](https://www.java.com/ru) - Официальная Java.
 - [Java Oracle](https://www.oracle.com/java/technologies/javase) - Список версий для скачивания.
-- [Java Oracle 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) - 17 версия из архива, выбираем `Windows X64 Installer`.
 - [Java Oracle 21](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html) - 21 версия из архива, выбираем `Windows X64 Installer`.
+- [Java Oracle 22](https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html) - 22 версия из архива, выбираем `Windows X64 Installer`.
 - [Adoptium](https://adoptium.net) - Альтернатива Java/Oracle, выбираем `Latest LTS Release`.
 
 ## Links
