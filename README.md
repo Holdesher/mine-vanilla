@@ -81,6 +81,7 @@
 - [Default HD 64x](https://modrinth.com/resourcepack/default-hd-64x) - HD текстуры.
 - [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode) - Темная тебя для интерфейса.
 - [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants) - Текстуры для зачарованных книг.
+- [Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks) - Отображение информации о ред-стоуне и механизмов.
 
 ## Java
 
