@@ -5,15 +5,6 @@
 	</p>
 </div>
 
-## Contents
-
-- [Info](#info)
-- [Install](#install)
-- [ModList](#modlist)
-- [Shader Packs](#shader-packs)
-- [Resource Packs](#resource-packs)
-- [Java](#java)
-- [Links](#links)
 
 ## Info
 
@@ -21,23 +12,36 @@
 - Loader - `Fabric`
 - Version - `1.21.10`
 
+
+## Sections
+
+- [Install](#install)
+- [ModList](#modlist)
+- [Shader Packs](#shader-packs)
+- [Resource Packs](#resource-packs)
+- [Java](#java)
+- [Materials](#materials)
+
+
 ## Install
 
 1. Установите любой лаунчер, например:
 
    - [MultiMC](https://multimc.org/#Download) - Требуется лицензия.
    - [Mojang](https://www.minecraft.net/ru-ru/download) - Требуется лицензия.
+   - [Prism Launcher](https://prismlauncher.org/download) - Требуется лицензия.
    - [Legacy Launcher](https://llaun.ch/ru)
    - [Legacy Launcher Mirror](https://lln4.ru/ru)
-   - [Prism Launcher](https://prismlauncher.org/download)
+  
 
-2. Откройте директорию `%appdata%` для конфигурации, нажмите `Win + R` и введите `%appdata%`.
+2. Откройте директорию `%appdata%` для конфигурации, нажмите `Win+R` и введите `%appdata%`.
 
 3. Скачайте [Fabric API](https://fabricmc.net) и установите его в директорию `%appdata%\.minecraft\` или в сборку `.minecraft\`.
 
 4. Скачайте [ModPack.zip](https://github.com/Holdesher/mine-vanilla/raw/refs/heads/main/modpack.zip) и перенесите содержимое в `%appdata%\.minecraft\` или в сборку `.minecraft\`.
 
 5. Запустите лаунчер, введите ник/аккаунт и запускайте игру.
+
 
 ## ModList
 
@@ -68,12 +72,14 @@
 - `Malilib` [(1.21.10-0.26.3)](https://modrinth.com/mod/malilib) - Мод-библиотека для клиентских модов.
 - `Litematica` [(1.21.10-0.24.3)](https://modrinth.com/mod/litematica) - Схемотехнический мод.
 
+
 ## Shader Packs
 
 - [BSL](https://modrinth.com/shader/bsl-shaders)
 - [Photon](https://modrinth.com/shader/photon-shader)
 - [Solas Shader](https://modrinth.com/shader/solas-shader)
 - [Complementary Shaders](https://modrinth.com/shader/complementary-reimagined)
+
 
 ## Resource Packs
 
@@ -83,6 +89,7 @@
 - [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants) - Текстуры для зачарованных книг.
 - [Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks) - Отображение информации о ред-стоуне и механизмов.
 
+
 ## Java
 
 - [Java](https://www.java.com/ru) - Официальная Java.
@@ -91,7 +98,8 @@
 - [Java Oracle 22](https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html) - 22 версия из архива, выбираем `Windows X64 Installer`.
 - [Adoptium](https://adoptium.net) - Альтернатива Java/Oracle, выбираем `Latest LTS Release`.
 
-## Links
+
+## Materials
 
 - [Modrinth](https://modrinth.com/)
 - [Fabric API](https://fabricmc.net)
